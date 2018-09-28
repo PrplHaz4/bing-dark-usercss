@@ -1,3 +1,15 @@
+/* ==UserStyle==
+@name         Bing Dark
+@description  Dark usercss theme for Bing for use with Stylus extension on most browsers.
+@namespace    prplhaz4.bing
+@version      0.1
+@author       prplhaz4 (https://github.com/prplhaz4)
+@homepageURL  https://github.com/PrplHaz4/bing-dark-usercss
+@supportURL   https://github.com/PrplHaz4/bing-dark-usercss/issues
+@updateURL    https://raw.githubusercontent.com/PrplHaz4/bing-dark-usercss/master/bing-dark.user.css
+@license      MIT
+==/UserStyle== */
+
 @-moz-document domain("bing.com") {
 /*
     **   Global
