@@ -174,7 +174,9 @@ li.actionsTxt {
 #sw_b {
     background-color: #fff;
 }
-
+#b_header .b_searchbox {
+     color: #c0c0c0;   
+}
 
 /*
     ** Explore Tab
