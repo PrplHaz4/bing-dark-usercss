@@ -2,7 +2,7 @@
 @name         Bing Dark
 @description  Dark usercss theme for Bing for use with Stylus extension on most browsers.
 @namespace    prplhaz4.bing
-@version      0.1.1
+@version      0.1.2
 @author       prplhaz4 (https://github.com/prplhaz4)
 @homepageURL  https://github.com/PrplHaz4/bing-dark-usercss
 @supportURL   https://github.com/PrplHaz4/bing-dark-usercss/issues
@@ -104,6 +104,9 @@
     .df_alsocon,
     #df_listaa .b_module_expansion .b_expansion_text {
         background-color: #222 !important;
+        color: #777;
+    }
+    .df_c .rwrl {
         color: #777;
     }
 
@@ -222,10 +225,6 @@
     .monaco-editor .token.keyword {
         color: #0080FF;
     }
-
-
-
-
 
 
     .b_pag .sb_pagS,
